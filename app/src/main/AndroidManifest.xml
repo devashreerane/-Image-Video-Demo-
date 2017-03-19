@@ -25,7 +25,7 @@
 
         <activity android:name=".activity.PlayVideoActivity"
             android:screenOrientation="portrait"
-            android:theme= "@style/AppTheme.NoActionBar"
+
             />
     </application>
 
