@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item android:id="@+id/action_video"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="Play the Video "/>
+    <item
+        android:id="@+id/action_image"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/action_image"/>
+
+    <item android:id="@+id/action_github"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="GitHub"
+     />
+</menu>

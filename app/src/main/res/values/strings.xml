@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DevashreeDemo</string>
+    <string name="action_image">Glide Image</string>
+    <string name="playvideo">Play The Video </string>
+    <string name="glideimageactivity">Glide Image Activity</string>
+</resources>
