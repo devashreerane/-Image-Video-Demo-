@@ -84,7 +84,9 @@ public class PlayVideoActivity extends AppCompatActivity implements ManifestFetc
         player = ExoPlayer.Factory.newInstance(2);
         playerControl = new PlayerControl(player); // we init player
         video_url = "http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8";
+
         //video url
+        // "http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8";
         //1.https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
         am = (AudioManager) this.getApplicationContext().getSystemService(Context.AUDIO_SERVICE); // for requesting audio
         mainHandler = new Handler(); //handler required for hls

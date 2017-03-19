@@ -15,6 +15,7 @@
         android:id="@+id/btns">
 
         <Button
+            android:layout_marginTop="10dp"
             style="?android:attr/buttonStyleSmall"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -24,6 +25,7 @@
             android:layout_centerHorizontal="true" />
 
         <Button
+            android:layout_marginTop="10dp"
             style="?android:attr/buttonStyleSmall"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
